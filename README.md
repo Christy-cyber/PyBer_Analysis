@@ -14,7 +14,7 @@ Data from 2019 were analyzed for PyBer, a ride sharing company, in order to deve
 
 ## Resources
 - Data Sources: city_data.csv, ride_data.csv
-- Software and Programming Languages: Jupyter Notebook v. 6.4.6; Python v. 3.8.3 :: Anaconda, Inc.; conda v. 4.11.0
+- Software and Programming Languages: Jupyter Notebook v. 6.4.6; Python v. 3.8.3 :: Anaconda, Inc.; conda v. 4.11.0; Matplotlib v. 3.5.0
 
 ## Results
   - **Average fare cost and average fare per driver by total rides per city:**  There is an inverse relationship between total number of rides and average fare cost.  Urban cities have the greatest number of rides (1,625) but have the lowest average fare per ride ($24.53) and lowest average fare per driver ($16.57) when compared to rural cities that have the fewest rides (125) with the highest average fare per ride ($34.62) and highest average fare per driver ($55.49).  Fare cost and number of rides for suburban cities fall between the other two city types.  Additionally, the greatest number of drivers are found in urban areas (2,405), followed by suburban (490) and then rural cities (78).  Urban cities are responsible for approximately ten times more revenue than that of rural cities.  Rural and suburban cities have more rides than drivers, whereas urban cities have more drivers than rides (Table 1, Fig. 1).
